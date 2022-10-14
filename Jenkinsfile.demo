@@ -1,4 +1,4 @@
-@Library('pipeline_library_demo') _
+@Library('pipeline_library_demo')_
 
 import com.cleverbuilder.GlobalVars
 import com.cleverbuilder.SampleClass
